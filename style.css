@@ -10,9 +10,17 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	color: #fff;
-	background-color: royalblue;
+	/* background-color: royalblue; */
 }
 
 p {
 	color: royalblue;
+}
+
+.square {
+	width: 100px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: mediumslateblue;
 }
